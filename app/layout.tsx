@@ -19,7 +19,6 @@ export const metadata: Metadata = {
   title: 'Vidyaar — Study smarter, not longer',
   description:
     'Vidyaar is a personalized academic productivity platform that tells you exactly what to study next, how long it will take, and why it matters.',
-  generator: 'v0.app',
 }
 
 export const viewport: Viewport = {
